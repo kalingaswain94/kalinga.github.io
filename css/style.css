@@ -1,0 +1,38 @@
+
+.headtxt h1 {
+    color:azure;
+ font-family: 'Amatic SC', cursive;
+    font-size: 100px;
+    padding-top: -50px;
+    
+}
+
+
+span {
+    color: #e02626;
+    
+}
+
+.slidingshow {
+    
+   padding-left: 0px;
+    margin: auto;
+    vertical-align: ;
+    
+}
+   
+.seg1 {
+    
+    background-color: aliceblue;
+}
+
+.quote {
+     text-align: center;
+    font-family: 'Anton', sans-serif;
+     
+    
+}
+.foot {
+    
+    background-color: #f5f2f2;
+}
