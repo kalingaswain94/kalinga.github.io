@@ -2,8 +2,8 @@
 .headtxt h1 {
     color:azure;
  font-family: 'Amatic SC', cursive;
-    font-size: 100px;
-    padding-top: -50px;
+    font-size: 115px;
+    
     
 }
 
@@ -21,7 +21,7 @@ span {
     
 }
    
-.seg1 {
+#seg1 {
     
     background-color: aliceblue;
 }
@@ -35,4 +35,12 @@ span {
 .foot {
     
     background-color: #f5f2f2;
+}
+.quote2 {
+     text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.quote1 {
+    font-family: 'Droid Serif','Helvetica Neue';
+    
 }
